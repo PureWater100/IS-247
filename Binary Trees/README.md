@@ -1,1 +1,1 @@
-## Topic: Binary Trees and Sorting Algorithms
+## Topic: Binary Trees and Traversal Algorithms
